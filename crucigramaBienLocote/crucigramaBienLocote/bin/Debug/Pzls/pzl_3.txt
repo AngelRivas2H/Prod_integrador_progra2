@@ -1,0 +1,6 @@
+﻿x/y/direccion/numero/palabra/pista 
+11/3/down/1/betado/Huawei fue ______.
+14/5/down/2/vivir/Morir es _____.
+6/6/across/3/procrastinar/Lo que mejor se hacer.
+9/4/across/4/VueJS/Framework que esta menos chido que angular.
+13/8/across/5/pista/Esto es una ______.

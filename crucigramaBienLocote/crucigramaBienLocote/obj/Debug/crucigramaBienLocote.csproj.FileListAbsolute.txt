@@ -1,0 +1,17 @@
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\crucigramaBienLocote.exe.config
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\crucigramaBienLocote.exe
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\crucigramaBienLocote.pdb
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.Properties.Resources.resources
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.exe
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.pdb
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.main_form.resources
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\obj\Debug\crucigramaBienLocote.pistasLocas.resources
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\Pzls\pzl_1.txt
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\Pzls\pzl_2.txt
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\musiquita\LA_ROLA.wav
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\Pzls\pzl_3.txt
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\Pzls\pzl_4.txt
+C:\Users\Angel\source\repos\crucigramaBienLocote\crucigramaBienLocote\bin\Debug\Pzls\pzl_5.txt

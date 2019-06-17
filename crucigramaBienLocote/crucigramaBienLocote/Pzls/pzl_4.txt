@@ -1,0 +1,6 @@
+﻿x/y/direccion/numero/palabra/pista
+8/8/down/1/ideas/Ayuda, necesito ______.
+9/1/down/2/diamante/Para picar obsidiana, se necesita ______.
+10/11/across/3/Oro/Ag.
+7/8/across/4/Hierro/Fe.
+12/7/down/5/sodio/Na.

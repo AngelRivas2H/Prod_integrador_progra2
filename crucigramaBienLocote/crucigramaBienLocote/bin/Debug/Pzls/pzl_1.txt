@@ -1,0 +1,8 @@
+﻿x/y/direccion/numero/palabra/pista
+10/10/across/1/barco/Wacho es _____.
+14/4/down/2/cerrado/Estado de no estar abierto.
+11/4/down/3/pichula/Ay mi ______!.
+9/8/across/4/uwu/Cara kawai formada por 3 letras, de las cuales se repiten 2.
+7/2/across/5/poo/Siglas de la programacion orientada a objetos.
+7/2/down/6/pentagono/Figura de 5 lados.
+10/5/across/7/pi/3.14157

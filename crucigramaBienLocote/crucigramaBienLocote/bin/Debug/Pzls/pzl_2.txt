@@ -1,0 +1,8 @@
+﻿x/y/direccion/numero/palabra/pista 
+1/7/across/1/travestis/En Bangkok hay muchos ________.
+9/5/down/2/DoS/Siglas para los ataques de denegación de servicio.
+7/9/down/3/cien/Lo que me va a poner el profe en este parcial.
+2/3/across/4/pubertad/Proceso de crecimiento que toma inicio a los 13 años aprox.
+3/2/down/5/muerta/Veo gente ______.
+12/5/down/6/diablo/El _____ anda suelto.
+4/10/across/7/pavimento/Pisando el mismo ________.

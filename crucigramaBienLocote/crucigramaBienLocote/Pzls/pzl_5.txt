@@ -1,0 +1,6 @@
+﻿x/y/direccion/numero/palabra/pista
+14/7/across/1/elon/El nombre del CEO de space x (solo el porimer nombre).
+10/9/down/2/piel/El órgano más grande del cuerpo humano.
+10/10/across/3/iceberg/Un _____ hundió el titanic.
+13/12/across/4/dos/Cantidad promedio de manos por persona.
+15/5/down/5/palabras/Necesito _______ para terminar esto.
